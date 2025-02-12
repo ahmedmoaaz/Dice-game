@@ -1,2 +1,2 @@
 # Dice-game 
-# Using Html5,Css ,Javascript
+# Using Html5, Css3 ,Javascript
